@@ -8,6 +8,7 @@ public class Main {
     // ------
     // ARRAYS
     // List<type> varName = new ArrayList<>();
+    // https://www.w3schools.com/java/java_arraylist.asp
     List<Integer> myList = new ArrayList<>();
      
     myList.add(10); // 0
